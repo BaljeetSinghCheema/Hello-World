@@ -1,2 +1,2 @@
 # Hello-World
-Traditional Hello World Project :-)
+Customary Hello World Project :-)
